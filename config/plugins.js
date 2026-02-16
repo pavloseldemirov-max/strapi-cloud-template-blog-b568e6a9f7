@@ -5,7 +5,7 @@ export default () => ({
         {
           uid: 'api::cashierinfopage.cashierinfopage',
           published: {
-            url: 'https://fruitful-desire-5699eb9ec8.strapiapp.com/cashier/{name}',
+            url: 'https://ph2tech899711.com//cashier/{name}',
           },
         },
       ],
